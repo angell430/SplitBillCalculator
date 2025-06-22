@@ -19,3 +19,10 @@ Option 2: Split by Individual Orders
 - Input their individual orders and prices
 - Option to add tax/service charge, distributed based on each person’s share
 - Final summary per person including original and extra charges
+
+Technologies Used:
+-Java (Standard Edition)
+-Scanner class for input
+-Arrays for storing names and bills
+-Basic method usage and control structures
+
